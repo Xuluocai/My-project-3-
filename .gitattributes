@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.so filter=lfs diff=lfs merge=lfs -text
+com.ptc.vuforia.engine-10.9.3.tgz filter=lfs diff=lfs merge=lfs -text
